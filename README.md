@@ -18,7 +18,7 @@
 
 * Download the 'rectangle' file inside the executable folder
 * Open where you installed
-* Run it
+* Run it <br>
 (Not sure if works on Windows and/or macOS)
 
 ## Clean
