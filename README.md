@@ -12,8 +12,8 @@
 * git clone https://github.com/benaytms/rectangle_.git
 * cd rectangle_/main/
 * make
-* ./targetFolder/rectangle <br>
-  (Should work on any OS as long as you install the dependencies)
+* ./targetFolder/rectangle or just execute the .exe file on Windows<br>
+  (Works in any OS as long as you install the dependencies)
 
 ### 2 Method
 
