@@ -13,6 +13,7 @@
 * cd rectangle_/main/
 * make
 * ./targetFolder/rectangle
+  (Should work on any OS as long as you install the dependencies)
 
 ### 2 Method
 
