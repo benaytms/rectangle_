@@ -20,7 +20,7 @@
 * Download the 'rectangle' file inside the executable folder
 * Open where you installed
 * Run it <br>
-  (Doesn't work on Windows)
+  (Only works on Linux)
 
 ## Clean
 You can clean the object files and the targetFolder
