@@ -14,7 +14,7 @@
 * make
 * ./targetFolder/rectangle
 * (on Windows) execute the rectangle.exe <br>
-  (Works in any OS as long as you install the dependencies)
+  (Works on any OS as long as you install the dependencies)
 
 ### 2 Method
 
