@@ -1,5 +1,3 @@
-# RECTANGLE
-
 ## Very simple rectangle game i made to practice C++ using the SFML library
 
 ## Dependencies
