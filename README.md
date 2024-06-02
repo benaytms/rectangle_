@@ -24,3 +24,7 @@
 ## Clean
 You can clean the object files and the targetFolder
 by using 'make clean'
+
+## Credits
+This project was inspired by the aggressive_rectangles project by my friend Aushiffer
+See his project in: https://github.com/Aushiffer/aggressive_rectangles
