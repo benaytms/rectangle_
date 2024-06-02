@@ -3,6 +3,7 @@
 ## Very simple game i made to practice C++ using the SFML library
 
 ## Dependencies
+* Git (if you need to clone the repository)
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
 
