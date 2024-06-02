@@ -6,7 +6,7 @@
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
 
-## How to play.
+## How to play
 ### 1 method
 
 * git clone https://github.com/benaytms/rectangle_.git
