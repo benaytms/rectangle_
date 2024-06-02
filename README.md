@@ -8,14 +8,14 @@
 * Make Software (makefile extension)
 
 ## How to play
-### 1 method
+### Method 1
 
 * git clone https://github.com/benaytms/rectangle_.git
 * cd rectangle_/main/
 * make
 * ./targetFolder/rectangle
 
-### 2 Method
+### Method 2
 
 * Download the 'rectangle' file inside the executable folder
 * Open where you installed
