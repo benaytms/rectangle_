@@ -14,15 +14,12 @@
 * cd rectangle_/main/
 * make
 * ./targetFolder/rectangle
-* (on Windows) execute the rectangle.exe <br>
-  (Works on any OS as long as you install the dependencies)
 
 ### 2 Method
 
 * Download the 'rectangle' file inside the executable folder
 * Open where you installed
-* Run it <br>
-  (Only works on Linux)
+* Run it
 
 ## Clean
 You can clean the object files and the targetFolder
