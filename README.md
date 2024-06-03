@@ -14,7 +14,7 @@
 * git clone https://github.com/benaytms/rectangle_.git
 * cd rectangle_/main/
 * Copy the SFML folder to your include folder (it is usually /usr/include/ or /usr/local/include/) <br>
-        + command: sudo cp -r SFML /usr/include && sudo cp -r SFML /usr/local/include
+        * command: sudo cp -r SFML /usr/include && sudo cp -r SFML /usr/local/include
 * make
 * ./targetFolder/rectangle
 
