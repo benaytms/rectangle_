@@ -6,7 +6,7 @@
 * Git
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
-* SFML Library
+* SFML
 
 ## How to play
 ### Method 1
