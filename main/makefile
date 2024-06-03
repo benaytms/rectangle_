@@ -1,6 +1,6 @@
 CXX = g++
-CXXFLAGS = -Wall -std=c++17 -I./SFML
-LIBS = -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+CXXFLAGS = -Wall -std=c++17
+LIBS = -lsfml-graphics -lsfml-window -lsfml-system
 
 TARGET = rectangle
 TARGET_DIR = ./targetFolder
