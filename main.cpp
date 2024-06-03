@@ -9,9 +9,7 @@ int main() {
     sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Rectangle", sf::Style::Titlebar | sf::Style::Close);
 
     // rectangle settings
-    float recWidth = 80;
-    float recWidth = 45;
-    sf::RectangleShape rectangle(sf::Vector2f( recWidth, recHeight ));
+    sf::RectangleShape rectangle(sf::Vector2f(80.f, 45.f));
     rectangle.setFillColor(sf::Color::Blue);
     rectangle.setPosition( 0.45*WIDTH , 0.4625*HEIGHT );
 
