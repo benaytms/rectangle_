@@ -6,14 +6,15 @@
 * Git
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
-* SFML Library<br>
-    1) Place the SFML folder from inside rectangle_/main/SFML to your include folder (it is usually /usr/include/ or /usr/local/include/) 
+* SFML Library
 
 ## How to play
 ### Method 1
 
 * git clone https://github.com/benaytms/rectangle_.git
 * cd rectangle_/main/
+* Copy the SFML folder to your include folder (it is usually /usr/include/ or /usr/local/include/)
+    command: sudo cp -r SFML /usr/include && sudo cp -r SFML /usr/local/include
 * make
 * ./targetFolder/rectangle
 
