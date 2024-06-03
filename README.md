@@ -4,9 +4,9 @@
 
 ## Dependencies
 * Git
+* SFML
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
-* SFML
 
 ## How to play
 ### Method 1
