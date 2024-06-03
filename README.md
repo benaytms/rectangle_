@@ -7,7 +7,7 @@
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
 * SFML Library<br>
-    Place the SFML folder from inside rectangle_/main/SFML to your include folder (it is usually /usr/include/ or /usr/local/include/) 
+    **Place the SFML folder from inside rectangle_/main/SFML to your include folder (it is usually /usr/include/ or /usr/local/include/) 
 
 ## How to play
 ### Method 1
