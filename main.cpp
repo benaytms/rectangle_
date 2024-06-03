@@ -1,14 +1,19 @@
 #include <SFML/Graphics.hpp>
 // the only necessary libray is SFML
 
+#define WIDTH 800
+#define HEIGHT 600
+
 int main() {
     // renders window
-    sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Window");
+    sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Rectangle", sf::Style::Titlebar | sf::Style::Close);
 
     // rectangle settings
-    sf::RectangleShape rectangle(sf::Vector2f(80.f, 45.f));
+    float recWidth = 80;
+    float recWidth = 45;
+    sf::RectangleShape rectangle(sf::Vector2f( recWidth, recHeight ));
     rectangle.setFillColor(sf::Color::Blue);
-    rectangle.setPosition(350.f, 275.f);
+    rectangle.setPosition( 0.45*WIDTH , 0.4625*HEIGHT );
 
     float speed = 0.1f;             // rectangle speed
     bool movingRight = true;        // flag for right movement
