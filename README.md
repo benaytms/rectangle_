@@ -4,10 +4,10 @@
 
 ## Dependencies
 * Git
-* SFML
-    * will be automatically installed if using method 1
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
+* SFML
+   * will be automatically installed if using method 1
 
 ## How to play
 ### Method 1
