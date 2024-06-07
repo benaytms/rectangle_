@@ -24,7 +24,7 @@
 * Run it
 
 ## Clean
-You can clean the object files and the targetFolder
+You can clean the object files and the executable
 by using 'make clean'
 
 ## Credits
