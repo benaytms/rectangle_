@@ -6,8 +6,7 @@
 * Git
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
-* SFML
-   * will be automatically installed if using method 1
+* SFML library
 
 ## How to play
 ### Method 1
