@@ -1,6 +1,6 @@
 ## Rectangle
 
-## Very simple game i made to practice C++ using the SFML library
+## Very application made as C++ practice using the SFML library
 
 ## Dependencies
 * Git
