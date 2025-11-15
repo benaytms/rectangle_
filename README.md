@@ -1,14 +1,13 @@
 ## Rectangle
 
-## Very application made as C++ practice using the SFML library
+## Very simple application made in C++ as practice using the SFML library
 
 ## Dependencies
-* Git
 * GCC/G++ GNU C Compiler
 * Make Software (makefile extension)
 * SFML library
 
-## How to play
+## How to use
 ### Method 1
 
 * git clone https://github.com/benaytms/rectangle_.git
