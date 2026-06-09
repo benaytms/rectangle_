@@ -1,4 +1,4 @@
-# Rectangle
+Rectangle
 
 Very simple application made in C++ as practice using the SFML library
 
