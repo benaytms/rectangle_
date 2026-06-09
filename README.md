@@ -1,29 +1,37 @@
-## Rectangle
+# Rectangle
 
-## Very simple application made in C++ as practice using the SFML library
+Very simple application made in C++ as practice using the SFML library
 
-## Dependencies
-* GCC/G++ GNU C Compiler
-* Make Software (makefile extension)
-* SFML library
+**Dependencies**
 
-## How to use
-### Method 1
+- g++ with C++17 support
+- SFML development libraries
 
-* git clone https://github.com/benaytms/rectangle_.git
-* cd rectangle_/
-* make
-* ./main/rectangle
+Installing SFML (Debian/Ubuntu)
+```bash
+sudo apt install libsfml-dev
+```
 
-### Method 2
+(Arch)
+```bash
+sudo pacman -S sfml
+```
 
-* Download the 'rectangle' file inside the executable folder
-* Open where you installed
-* Run it
+(macOS)
+```bash
+brew install sfml
+```
 
-## Clean
-You can clean the object files and the executable
-by using 'make clean'
+**Building**
+```bash
+make
+./main/rectangle
+```
+
+**Cleaning**
+```bash
+make clean
+```
 
 ## Credits
 This project was inspired by the aggressive_rectangles project by my friend Aushiffer<br>
