@@ -27,4 +27,4 @@ by using 'make clean'
 
 ## Credits
 This project was inspired by the aggressive_rectangles project by my friend Aushiffer<br>
-See his project in: https://github.com/Aushiffer/aggressive_rectangles
+See his project at: https://github.com/Aushiffer/aggressive_rectangles
