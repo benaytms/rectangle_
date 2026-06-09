@@ -1,6 +1,6 @@
 Rectangle
 
-Very simple application made in C++ as practice using the SFML library
+Very simple application made in C++ using the SFML library
 
 **Dependencies**
 
@@ -33,6 +33,6 @@ make
 make clean
 ```
 
-## Credits
+**Credits**
 This project was inspired by the aggressive_rectangles project by my friend Aushiffer<br>
 See his project at: https://github.com/Aushiffer/aggressive_rectangles
